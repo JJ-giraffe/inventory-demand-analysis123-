@@ -1,0 +1,7 @@
+sku,name,stock,unit_cost,lead_days,units_30d,avg_daily_demand,coverage_days,inventory_value,target_days,risk,suggested_order_units
+A,基础款,100,20,7,300,10,10,2000,14,REORDER,40
+B,畅销款,20,30,10,240,8,2.5,600,17,URGENT,116
+C,慢销款,300,15,14,60,2,150,4500,21,OVERSTOCK,0
+D,新品,50,40,7,0,0,,2000,14,NO_DEMAND,0
+E,缺货款,0,25,5,150,5,0,0,12,STOCKOUT,60
+F,临界款,140,10,7,300,10,14,1400,14,HEALTHY,0
